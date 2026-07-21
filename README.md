@@ -57,7 +57,7 @@ Here's the folder structure that gets created by `cookiecutter-datascience-simpl
 
 After adding files, my folder structure looks like:
 
-\---kchousing
+	├──kchousing
         |   .gitignore
         |   aap_hw1_s26_sklearn.ipynb
         |   hw1_sklearn_dataprep.ipynb
@@ -65,22 +65,22 @@ After adding files, my folder structure looks like:
         |   kchousing.html
         |   README.md
         |
-        +---data
+        ├───data
         |   |   kc_house_data_classification.csv
         |   |   kc_house_data_regression.csv
         |   |
-        |   \---raw
+        |   └───raw
         |           .gitkeep
         |           kc_house_data_original.csv
         |
-        +---docs
+        ├───docs
         |       notes.md
         |
-        \---output
+        └───output
                 pandas_profiling_report.html
                 readme.md
                 sweetviz_report.html
-
+                
 
 Documentation
 --------------
