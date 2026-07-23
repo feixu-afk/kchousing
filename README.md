@@ -1,6 +1,6 @@
 # kchousing
 
-Information on using this cookiecutter
+GitHub Site: https://github.com/feixu-afk/kchousing
 
 Development workflows
 =======================
